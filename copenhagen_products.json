@@ -1,0 +1,133 @@
+[
+  {
+    "name": "vintage leather teddy cream",
+    "id": "CPH63",
+    "brand": "Copenhagen",
+    "colours": [
+      {
+        "name": "cream",
+        "sizes": [
+          {
+            "name": "37",
+            "quantity": 1
+          },
+          {
+            "name": "38",
+            "quantity": 1
+          },
+          {
+            "name": "39",
+            "quantity": 2
+          },
+          {
+            "name": "40",
+            "quantity": 1
+          },
+          {
+            "name": "41",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "material": "leather",
+    "total_quantity": 6,
+    "unit_price": 99.9,
+    "total_cost": 599.4,
+    "retail_price": 259.0,
+    "discount": 0.0
+  },
+  {
+    "name": "hairy leather gazelle",
+    "id": "CPH433",
+    "brand": "Copenhagen",
+    "colours": [
+      {
+        "name": "gazelle",
+        "sizes": [
+          {
+            "name": "37",
+            "quantity": 1
+          },
+          {
+            "name": "38",
+            "quantity": 1
+          },
+          {
+            "name": "39",
+            "quantity": 2
+          },
+          {
+            "name": "40",
+            "quantity": 1
+          },
+          {
+            "name": "41",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "material": "leather",
+    "total_quantity": 6,
+    "unit_price": 99.9,
+    "total_cost": 599.4,
+    "retail_price": 239.0,
+    "discount": 0.0
+  },
+  {
+    "name": "suede new brown",
+    "id": "CPH616",
+    "brand": "Copenhagen",
+    "colours": [
+      {
+        "name": "brown",
+        "sizes": [
+          {
+            "name": "37",
+            "quantity": 1
+          },
+          {
+            "name": "38",
+            "quantity": 1
+          },
+          {
+            "name": "39",
+            "quantity": 2
+          },
+          {
+            "name": "40",
+            "quantity": 1
+          },
+          {
+            "name": "41",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "material": "",
+    "total_quantity": 6,
+    "unit_price": 99.9,
+    "total_cost": 599.4,
+    "retail_price": 199.9,
+    "discount": 0.0
+  },
+  {
+    "name": "vintage leather teddy cream CPH433 hairy leather gazelle CPH616 suede new brown",
+    "id": "CPH63",
+    "brand": "Copenhagen",
+    "colours": [
+      {
+        "name": "brown",
+        "sizes": []
+      }
+    ],
+    "material": "leather",
+    "total_quantity": 0,
+    "unit_price": 99.9,
+    "total_cost": 0.0,
+    "retail_price": null,
+    "discount": 0.0
+  }
+]
